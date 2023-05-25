@@ -4,7 +4,11 @@
 
 <hr>
 
-## 회귀분석의 이해
+## What? Regression Analysis
+
+- [**기계학습의 이해**](https://velog.io/@jayarnim/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+
+- [**Scikit-Learn Library**](https://velog.io/@jayarnim/Scikit-Learn-Library)
 
 - [**회귀분석의 이해**](https://velog.io/@jayarnim/%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%EC%9D%98-%EC%9D%B4%ED%95%B4)
 
