@@ -26,7 +26,8 @@
 
 - [**가중치 규제**](https://velog.io/@jayarnim/%EB%B2%88%EC%99%B8-%EA%B0%80%EC%A4%91%EC%B9%98-%EA%B7%9C%EC%A0%9C)
 
-  - [**Practice**]()
+  - [**Practice - LASSO**]()
+  - [**Practice - Ridge**]()
 
 - [**경사하강법과 SGDRegressor**](https://velog.io/@jayarnim/%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95%EA%B3%BC-SGDRegression)
 
