@@ -22,9 +22,15 @@
 
 - [**최소자승법과 LinearRegression**](https://velog.io/@jayarnim/%EC%B5%9C%EC%86%8C%EC%9E%90%EC%8A%B9%EB%B2%95%EA%B3%BC-LinearRegression)
 
-  - [**가중치 규제**](https://velog.io/@jayarnim/%EB%B2%88%EC%99%B8-%EA%B0%80%EC%A4%91%EC%B9%98-%EA%B7%9C%EC%A0%9C)
+  - [**Practice**]()
+
+- [**가중치 규제**](https://velog.io/@jayarnim/%EB%B2%88%EC%99%B8-%EA%B0%80%EC%A4%91%EC%B9%98-%EA%B7%9C%EC%A0%9C)
+
+  - [**Practice**]()
 
 - [**경사하강법과 SGDRegressor**](https://velog.io/@jayarnim/%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95%EA%B3%BC-SGDRegression)
+
+  - [**Practice**]()
 
 <hr>
 
@@ -44,7 +50,7 @@
 
 <hr>
 
-## Practice
+## Analysis
 
 - [**자전거 대여 수요 예측하기**](https://github.com/jayarnim/STUDY-ML/blob/main/practice/LinearRegressionAnalysis.ipynb)
 
