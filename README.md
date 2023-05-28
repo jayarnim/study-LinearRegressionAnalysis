@@ -25,7 +25,7 @@
 - [**가중치 규제**](https://velog.io/@jayarnim/%EB%B2%88%EC%99%B8-%EA%B0%80%EC%A4%91%EC%B9%98-%EA%B7%9C%EC%A0%9C)
 
   - [**Practice - LASSO**](https://github.com/jayarnim/study-LinearRegressionAnalysis/blob/main/LASSO.ipynb)
-  - [**Practice - Ridge**](https://github.com/jayarnim/study-LinearRegressionAnalysis/blob/main/RIDGE.ipynb)
+  - [**Practice - Ridge**](https://github.com/jayarnim/study-LinearRegressionAnalysis/blob/main/Ridge.ipynb)
 
 - [**경사하강법과 SGDRegressor**](https://velog.io/@jayarnim/%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95%EA%B3%BC-SGDRegression)
 
