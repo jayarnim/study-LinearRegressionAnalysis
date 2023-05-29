@@ -55,7 +55,7 @@
 
 ## Analysis
 
-- [**자전거 대여 수요 예측하기**](https://github.com/jayarnim/study-LinearRegressionAnalysis/blob/main/practice/자전거-대여-수요-예측하기.ipynb)
+- [**자전거 대여 수요 예측하기**](https://github.com/jayarnim/study-LinearRegressionAnalysis/blob/main/%EC%9E%90%EC%A0%84%EA%B1%B0_%EB%8C%80%EC%97%AC_%EC%88%98%EC%9A%94_%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0.ipynb)
 
 - [**데이터 세트 출처**](https://www.kaggle.com/c/bike-sharing-demand/overview)
 
