@@ -35,17 +35,11 @@
 
 ## Feature Engineering
 
-- [**결측치 처리하기**]()
+- [**Encoding**]()
 
-- [**이상치 처리하기**]()
+- [**Standardization**]()
 
-- [**범주형 설명변수 Label Encoding**]()
-
-- [**범주형 설명변수 One-Hot Encoding**]()
-
-- [**수치형 설명변수 표준화와 Standard Scaling**]()
-
-- [**수치형 설명변수 정규화와 Min-Max Scaling**]()
+- [**Normalization**]()
 
 <hr>
 
