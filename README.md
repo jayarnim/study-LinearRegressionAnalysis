@@ -35,6 +35,10 @@
 
 ## Feature Engineering
 
+- [**결측치 처리하기**]()
+
+- [**이상치 처리하기**]()
+
 - [**수치형 설명변수 Scaling**](https://velog.io/@jayarnim/%EC%88%98%EC%B9%98%ED%98%95-%EC%84%A4%EB%AA%85%EB%B3%80%EC%88%98-%EC%A0%84%EC%B2%98%EB%A6%AC)
 
 - [**범주형 설명변수 Encoding**]()
