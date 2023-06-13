@@ -31,8 +31,6 @@
 
 ## TroubleShooting
 
-- [**Model Selection**]()
-
 - [**다중공선성 문제와 분산팽창계수**](https://velog.io/@jayarnim/%EB%8B%A4%EC%A4%91%EA%B3%B5%EC%84%A0%EC%84%B1-%EB%AC%B8%EC%A0%9C%EC%99%80-%EB%B6%84%EC%82%B0%ED%8C%BD%EC%B0%BD%EA%B3%84%EC%88%98)
 
 <hr>
